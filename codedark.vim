@@ -220,8 +220,8 @@ call <sid>hi('Error', s:cdRed, {}, 'undercurl', s:cdRed)
 call <sid>hi('Todo', s:cdNone, s:cdLeftMid, 'none', {})
 
 " HTML:
-call <sid>hi('htmlTag', s:cdGray, {}, 'none', {})
-call <sid>hi('htmlEndTag', s:cdGray, {}, 'none', {})
+call <sid>hi('htmlTag', s:cdBlue, {}, 'none', {})
+call <sid>hi('htmlEndTag', s:cdBlue, {}, 'none', {})
 call <sid>hi('htmlTagName', s:cdBlue, {}, 'none', {})
 call <sid>hi('htmlSpecialTagName', s:cdBlue, {}, 'none', {})
 call <sid>hi('htmlArg', s:cdLightBlue, {}, 'none', {})
